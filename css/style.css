@@ -36,7 +36,7 @@ body{
     left: 0;
     margin-top: 10px;
     margin-left: 50px;
-    border-radius: 50%;
+    border-radius: 48%;
 }
 .header__logo-name,
 .footer__logo-name{
@@ -151,9 +151,7 @@ body{
     border-radius: 8px;
     background-color: rgb(218, 255, 247);
     color: black;
-    padding: 20px;
-}
-
+    paddi
 .home__reklama-text{
     line-height: 28px;
     border: 1px solid rgb(48, 48, 48, 0.6);
@@ -231,8 +229,6 @@ body{
     color: #f0f0f0;
     background-color: #ad733c;
     padding:20px 0px;
-    
-
 }
 .footer__contact{
     position: relative;
@@ -240,9 +236,6 @@ body{
     bottom: 10px;
     left:1140px;
 }
-
-
-
 .footer__contact-icon{
     width: 30px;
     height: 30px;
